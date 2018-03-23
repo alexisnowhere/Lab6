@@ -1,2 +1,2 @@
-# Lab6
-Lava works!
+# JSPlatformer
+JS Platformer for DIG 3480C
